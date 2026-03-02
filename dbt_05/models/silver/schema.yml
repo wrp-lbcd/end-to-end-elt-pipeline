@@ -1,0 +1,32 @@
+models:
+  - name: silver_clean
+    columns:
+      - name: hvfhs_license_num
+        description: The license number of the taxi driver.
+        data_tests:
+          - not_null
+    
+      - name: dispatching_base_num
+        description: The dispatching base number of the taxi driver.
+        data_tests:
+          - not_null
+
+      - name: pickup_ts
+        description: The timestamp when the taxi was picked up.
+        data_tests:
+          - not_null
+
+      - name: dropoff_ts
+        description: The timestamp when the taxi was dropped off.
+        data_tests:
+          - not_null
+
+      - name: pickup_date
+        description: The date when the taxi was picked up.
+        data_tests:
+          - not_null
+
+      - name: pickup_hour
+        description: The hour when the taxi was picked up.
+        data_tests:
+          - not_null

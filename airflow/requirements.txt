@@ -1,0 +1,4 @@
+dbt-core
+dbt-bigquery
+apache-airflow-providers-google
+apache-airflow-task-sdk

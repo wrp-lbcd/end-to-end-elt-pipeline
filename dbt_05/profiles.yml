@@ -1,0 +1,12 @@
+dbt_05:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      threads: 16
+      database: my-project-05-488906
+      schema: default
+      method: service-account
+      keyfile: /opt/airflow/keys/service_account.json
+      location: US
+      dataproc_batch: null
