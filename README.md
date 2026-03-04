@@ -1,5 +1,8 @@
 # end-to-end-elt-pipeline
 
+![Uploading Screenshot 2569-03-02 at 20.34.03.png…]()
+
+
 ## Project Overview
 โปรเจคนี้สาธิตการสร้าง ELT pipeline ตั้งแต่ต้นทางจนถึงข้อมูลที่พร้อมใช้งานเชิงวิเคราะห์ โดยโปรเจคมีหลักแนวคิดดังนี้:
 - เก็บข้อมูลดิบ (raw data) ไว้ก่อนใน Google Cloud Storage และ BigQuery Bronze layer โดยไม่แปลงข้อมูลตั้งแต่ต้น
