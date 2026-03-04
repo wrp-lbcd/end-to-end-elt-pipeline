@@ -1,6 +1,6 @@
 # end-to-end-elt-pipeline
 
-![Uploading Screenshot 2569-03-02 at 20.34.03.png…]()
+<img width="638" height="363" alt="Screenshot 2569-03-02 at 20 34 03" src="https://github.com/user-attachments/assets/2f50dcc2-9dac-429c-8a61-7f71f21582cb" />
 
 
 ## Project Overview
