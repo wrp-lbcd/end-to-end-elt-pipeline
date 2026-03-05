@@ -54,10 +54,10 @@
 โปรเจคนี้เป็น demo pipeline ดังนั้นยังมีบางส่วนที่สามารถพัฒนาเพิ่มได้ในอนาคต
 - ยังไม่ได้มีการใช้ dbt tests ซึ่งเป็นส่วนสำคัญของการตรวจสอบ data quality และ data reliability
 - ควรเพิ่ม schema tests และ data tests เช่น
--- not_null
--- unique
--- accepted_values
--- relationships
+  - not_null
+  - unique
+  - accepted_values
+  - relationships
 - การเพิ่ม dbt tests จะช่วยให้สามารถตรวจจับปัญหาของข้อมูลได้ตั้งแต่ขั้นตอน transformation และป้องกันไม่ให้ข้อมูลที่ผิดพลาดไหลไปถึง analytics layer
 - สามารถเพิ่ม CI/CD pipeline สำหรับ automated deployment
 
