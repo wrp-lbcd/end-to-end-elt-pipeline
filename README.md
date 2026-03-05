@@ -17,7 +17,7 @@
 - Google BigQuery
 - Google Cloud Storage
 - Docker & Docker Compose
-- Python 3.13
+- Python 3.11
 
 ## Data Layers
 ### Bronze
