@@ -61,4 +61,9 @@
 - การเพิ่ม dbt tests จะช่วยให้สามารถตรวจจับปัญหาของข้อมูลได้ตั้งแต่ขั้นตอน transformation และป้องกันไม่ให้ข้อมูลที่ผิดพลาดไหลไปถึง analytics layer
 - สามารถเพิ่ม CI/CD pipeline สำหรับ automated deployment
 
+### YouTube
+สามารถดูคลิปสำหรับโปรเจคนี้ได้ที่:  
+[YouTube Demo](https://www.youtube.com/watch?v=WVdDYC6oYuQ)
+
+
 
